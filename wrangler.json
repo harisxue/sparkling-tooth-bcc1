@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sparkling-tooth-bcc1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f54a47f1-e17d-4a64-b3be-56f9d26dcfbb",
+      "database_name": "mute-limit-3ea0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
